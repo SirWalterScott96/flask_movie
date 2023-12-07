@@ -8,11 +8,7 @@ from movie_api import *
 import json
 
 
-"""
-add CHINAA
-"""
 
-"some"
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'Chinaaa'
 Bootstrap5(app)
